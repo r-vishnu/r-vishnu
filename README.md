@@ -167,7 +167,7 @@
                     <p>I joined in this company on 2019 as a Senior Associate and I worked with Different accounts. The
                         major technologies I worked are React, Angualr 13+, Node, Ms Sql, Python, AWS.</p>
                     <p>&nbsp;</p>
-                    <h4>White Rabbit</h4>
+                    <h5>White Rabbit</h5>
                     <p>Dec 2018 &ndash; &nbsp;Feb 2019</p>
                     <p>I joined in this company as a Senior Software Developer and I was working on a React website.</p>
                     <p>&nbsp;</p>
