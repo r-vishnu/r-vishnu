@@ -2,10 +2,7 @@
         <tbody>
             <tr>
                 <td width="240">
-                    <img align="center"
-                        src="https://github.com/user-attachments/assets/5453188d-0cdb-461b-a4cc-5aaf748027d4"
-                        alt="https://stackoverflow.com/users/6161748/vishnu" style="border-radius:50%" height="130px"
-                        width="140px" />
+                     <p>&nbsp;</p>
                 </td>
                 <td width="48">
                     <p>&nbsp;</p>
