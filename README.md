@@ -2,7 +2,7 @@
         <tbody>
             <tr>
                 <td width="240">
-                     <p>&nbsp;</p>
+                    <p>&nbsp;</p>
                 </td>
                 <td width="48">
                     <p>&nbsp;</p>
@@ -150,36 +150,40 @@
                     <p>&nbsp;</p>
                     <h3>Education</h3>
                     <p>Btech Computer Science</p>
-                    <p>Baselios Mathews II College of Engineering</p>
-                    <p>Affiliated to University of Kerala</p>
-                    <p>&nbsp;</p>
-                    <p>&nbsp;</p>
-                    <p>&nbsp;</p>
-                    <p>&nbsp;</p>
+                    <p>Baselios Mathews II College of Engineering<br/>
+                    Affiliated to University of Kerala</p>
                 </td>
                 <td width="48">
                     <p>&nbsp;</p>
                 </td>
                 <td>
                     <h3>🔭 Work experience</h3>
-                    <h5>CTS</h5>
-                    <p>2019 Feb &ndash; Till date</p>
-                    <p>I joined in this company on 2019 as a Senior Associate and I worked with Different accounts. The
-                        major technologies I worked are React, Angualr 13+, Node, Ms Sql, Python, AWS.</p>
-                    <p>&nbsp;</p>
-                    <h5>White Rabbit</h5>
-                    <p>Dec 2018 &ndash; &nbsp;Feb 2019</p>
-                    <p>I joined in this company as a Senior Software Developer and I was working on a React website.</p>
-                    <p>&nbsp;</p>
-                    <h5>Cloudium</h5>
-                    <p>Sep 2017 &ndash; Nov 2018</p>
-                    <p>I joined in this company on 2019 as a Senior Associate and I worked with Different accounts. The
-                        major technologies I worked are React, Angualr 13+, Node, Ms Sql, Python, AWS</p>
-                    <p>&nbsp;</p>
-                    <h5>Media Systems India Soft Solutions</h5>
-                    <p>Nov 2012 &ndash; Sep 2017</p>
-                    <p>I joined in this company as a Senior Software Developer and I was working on a React website</p>
-                    <p>&nbsp;</p>
+                    <div>
+                        <h5>CTS</h5>
+                        <p>2019 Feb &ndash; Till date</p>
+                        <p>I joined in this company on 2019 as a Senior Associate and I worked with Different accounts.
+                            The
+                            major technologies I worked are React, Angualr 13+, Node, Ms Sql, Python, AWS.</p>
+                    </div>
+                    <div>
+                        <h5>White Rabbit</h5>
+                        <p>Dec 2018 &ndash; &nbsp;Feb 2019</p>
+                        <p>I joined in this company as a Senior Software Developer and I was working on a React website.
+                        </p>
+                    </div>
+                    <div>
+                        <h5>Cloudium</h5>
+                        <p>Sep 2017 &ndash; Nov 2018</p>
+                        <p>I joined in this company on 2019 as a Senior Associate and I worked with Different accounts.
+                            The
+                            major technologies I worked are React, Angualr 13+, Node, Ms Sql, Python, AWS</p>
+                    </div>
+                    <div>
+                        <h5>Media Systems India Soft Solutions</h5>
+                        <p>Nov 2012 &ndash; Sep 2017</p>
+                        <p>I joined in this company as a Senior Software Developer and I was working on a React website
+                        </p>
+                    </div>
                 </td>
             </tr>
         </tbody>
