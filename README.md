@@ -132,7 +132,7 @@
                     <p>PHONE:</p>
                     <p><a href="tel:+91 9496330253">+91 9496330253</a></p>
                     <p>EMAIL:</p>
-                    <p><a href="mailto:vishnur66@gmail.com">mailto:vishnur66@gmail.com</a></p>
+                    <p><a href="mailto:vishnur66@gmail.com">vishnur66@gmail.com</a></p>
                     <p>Online Profiles:</p>
                     <p><a href="https://stackoverflow.com/users/6161748/vishnu-radhakrishnan">Stackoverflow</a></p>
                     <p><a href="https://github.com/r-vishnu">NPM</a></p>
